@@ -1,0 +1,20 @@
+p {
+    color: rgb(255, 8, 0);
+  }
+  h1 {
+    font-size: 30px;
+  }
+  body {
+    background-color: #625b5b;
+  }
+  div {
+    text-align: center;
+  }
+  h2 {
+    font-family: Arial, sans-serif;
+  }
+  p {
+    margin: 10px;
+    padding: 5px;
+  }
+  
